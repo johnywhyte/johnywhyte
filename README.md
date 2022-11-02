@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnywhyte
+- 👋 Hi, I’m @johnywhyte a full-Stack Developer
 - 👀 I’m interested in Frontend and Backend Development Technologies
 - 🌱 I’m currently learning Serverless
 - 💞️ I’m looking to collaborate on Backened technologies 
