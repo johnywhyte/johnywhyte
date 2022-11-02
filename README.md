@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnywhyte
-- 👀 I’m interested in Web and Mobile Development Technologies
+- 👀 I’m interested in Frontend and Backend Development Technologies
 - 🌱 I’m currently learning Serverless
 - 💞️ I’m looking to collaborate on Backened technologies 
 - 📫 reach me on olorunfemijohn20@gmail.com
